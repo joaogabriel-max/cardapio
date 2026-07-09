@@ -42,3 +42,28 @@ ul > li {
   font-size: 20px;
   text-align: left;
 }
+
+nav {
+  background-color: #c85a17;
+  padding: 10px;
+  text-align: center;
+}
+
+nav a {
+  color: black;
+  text-decoration: none;
+  font-weight: bold;
+  margin: 0 10px;
+  font-size: 20px;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+.unidade img {
+  padding-top: 10px;
+  width: 45.5%;
+  height: auto;
+  border-radius: 10px;
+}
